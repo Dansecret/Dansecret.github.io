@@ -1,6 +1,30 @@
-Thanks for downloading this template!
+## Resume
+> Portfolio
+> About me
 
-Template Name: MyResume
-Template URL: https://bootstrapmade.com/free-html-bootstrap-template-my-resume/
-Author: BootstrapMade.com
-License: https://bootstrapmade.com/license/
+
+<!-- ### screenshot
+![alt text](https://github.com/danmirror/basestation-RSCUAD/blob/master/style/asset/screen.png?raw=true) -->
+
+### Language
+- [x] HTML
+- [x] css
+- [x] php
+- [x] Javascript
+- [x] bootstrap 4
+
+
+
+### apps
+- [x] Vscode
+- [x] Xampp
+- [x] Browser(google,mozila,dll)
+
+### install 
+- git clone https://github.com/dansecret/Myresume
+
+
+
+
+### author
+> <a href="https://me-danuandrean.github.io/">Danu andrean</a>
