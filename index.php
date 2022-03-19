@@ -25,7 +25,7 @@
   <link href="assets/vendor/swiper/swiper-bundle.min.css" rel="stylesheet">
 
   <!-- Template Main CSS File -->
-  <link href="assets/css/style.css" rel="stylesheet">
+  <link href="assets/css/styles.css" rel="stylesheet">
 
   <!-- =======================================================
   * Template Name: MyResume - v4.7.0
@@ -101,7 +101,7 @@
             <div class="row">
               <div class="col-lg-6">
                 <ul>
-                  <li><i class="bi bi-chevron-right"></i> <strong>Birthday:</strong> <span>19 December</span></li>
+                  <li><i class="bi bi-chevron-right"></i> <strong>Birthday:</strong> <span>19 December 2001</span></li>
                   <li><i class="bi bi-chevron-right"></i> <strong>Website:</strong> <span>www.Hamdandih.com</span></li>
                   <li><i class="bi bi-chevron-right"></i> <strong>Phone:</strong> <span>082179427463</span></li>
                   <li><i class="bi bi-chevron-right"></i> <strong>City:</strong> <span>Palembang,Sumatera Selatan INDONESIA</span></li>
