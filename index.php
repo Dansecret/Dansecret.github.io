@@ -516,8 +516,8 @@
                 </svg>
                 <i class="bx bxl-dribbble"></i>
               </div>
-              <h4><a href="">Nama Project</a></h4>
-              <p>Bagian Deskripsi project</p>
+              <h4><a href="">Portsmedia|Hamdandih</a></h4>
+              <p>Merupakan sebuah website Portfolio,Menggunakan teknologi Bootstrap,HTML,CSS,Javascript,PHP</p>
             </div>
           </div>
 
@@ -529,7 +529,7 @@
                 </svg>
                 <i class="bx bx-file"></i>
               </div>
-              <h4><a href="">Nama Project</a></h4>
+              <h4><a href="">NODEJS Server</a></h4>
               <p>Bagian Deskripsi project</p>
             </div>
           </div>
