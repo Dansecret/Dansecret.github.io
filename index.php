@@ -275,7 +275,9 @@
           <div class="col-lg-6">
             <h3 class="resume-title">Education</h3>
             <div class="resume-item pb-0">
-              <h4>Bachelor of informatics</h4>
+              <h4>
+              <a href="https://tif.uad.ac.id/" target="_blank">Bachelor of informatics</a>
+              </h4>
               <h5>2020 - now</h5>
               <p><em>Ahmad Dahlan University, Yogyakarta, INDONESIA</em></p>
               <p>Achievment</p>
@@ -293,21 +295,52 @@
                 <li>District Level Basketball Champion</li>
               </ul>
             </div>
+            <div class="resume-item pb-0">
+              <h4>Junior Web Developer</h4>
+              <h5>2021-2024</h5>
+              <p><em>BNSP Competent Certificate</em></p>
+              <p>Competent</p>
+            </div>
 
             <h3 class="resume-title">Organisation</h3>
             <div class="resume-item">
-              <h4> RSCUAD (Robo Soccer Universitas Ahmad Dahlan)</h4>
+              <h4>
+                <span><img src="./assets/img/rscuad.png" width="40px"></span>
+                <a href="https://www.instagram.com/rscuad.uad/" target="_blank">RSCUAD (Robo Soccer Universitas Ahmad Dahlan)</a>
+                <span><img src="./assets/img/rscuad.png" width="40px"></span>
+              </h4>
               <h5>2020 - now</h5>
               <p><em>Programmer</em></p>
               <p>Develop and be responsible for the program code and software on the robot, especially before the robot contest</p>
             </div>
             <div class="resume-item">
-              <h4> Robotic Development Comunity</h4>
+              <h4>
+                <span><img src="./assets/img/rdc.png" width="35px"></span>  
+                <a href="https://www.instagram.com/robotics_uad/" target="_blank">RDC (Robotic Development Comunity)</a>
+                <span><img src="./assets/img/rdc.png" width="35px"></span> 
+                </h4>
               <h5>2020 - now</h5>
               <p><em>Member</em></p>
+              <p>Carry out research and participate in robot contests representing Ahmad Dahlan University</p>
             </div>
             <div class="resume-item">
-              <h4>Himpunan Mahasiswa Teknik Informatika </h4>
+              <h4> 
+                <span><img src="./assets/img/gdsc.png" width="40px"></span>  
+                <a href="https://www.instagram.com/gdsc_uad/" target="_blank">GDSC (Google Developer Student Clubs)</a>
+                <span><img src="./assets/img/gdsc.png" width="40px"></span>  
+              </h4>
+              <h5>2021 - now</h5>
+              <p><em>Member</em></p>
+              <p>Develop and be responsible for the program code and software</p>
+            </div>
+            <div class="resume-item">
+              <div class="resume-item-header">
+              </div>
+              <h4>
+                <span><img src="./assets/img/HMTIF.png" width="40px"></span>
+                <a href="https://www.instagram.com/hmifuad/" target="_blank">Himpunan Mahasiswa Teknik Informatika</a>
+                <span><img src="./assets/img/HMTIF.png" width="40px"></span>
+              </h4>
               <h5>2021</h5>
               <p><em>Staff Akastrat</em></p>
               <p>Advocating and accommodating all the aspirations of informatics engineering students who will later be reviewed and responsible for carrying out the aspirations of incoming students</p>
