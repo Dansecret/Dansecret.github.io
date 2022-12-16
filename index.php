@@ -27,12 +27,7 @@
   <!-- Template Main CSS File -->
   <link href="assets/css/styles.css" rel="stylesheet">
 
-  <!-- =======================================================
-  * Template Name: MyResume - v4.7.0
-  * Template URL: https://bootstrapmade.com/free-html-bootstrap-template-my-resume/
-  * Author: BootstrapMade.com
-  * License: https://bootstrapmade.com/license/
-  ======================================================== -->
+
 </head>
 
 <body>
@@ -64,7 +59,7 @@
       <div class="social-links">
         
         <a href="https://www.instagram.com/hamdandih/" target="_blank" class="instagram"><i class="bx bxl-instagram"></i></a>
-        <a href="https://github.com/hamdandih" target="_blank" class="bi-github"></a>
+        <a href="https://github.com/dansecret" target="_blank" class="bi-github"></a>
         <a href="https://www.linkedin.com/in/hamdandih-013948218/" target="_blank" class="linkedin"><i class="bx bxl-linkedin"></i></a>
         <a href="https://twitter.com/Hamdandih2" target="_blank" class="twitter"><i class="bx bxl-twitter"></i></a>
         <a href="https://www.facebook.com/egymess" target="_blank" class="facebook"><i class="bx bxl-facebook"></i></a>
@@ -74,11 +69,9 @@
   </section><!-- End Hero -->
 
   <main id="main">
-
     <!-- ======= About Section ======= -->
     <section id="about" class="about">
       <div class="container" data-aos="fade-up">
-
         <div class="section-title">
           <h2>About</h2>
           <p>I am a hardworking, unyielding and innovative person, my hobby is playing basketball, 
@@ -101,15 +94,14 @@
             <div class="row">
               <div class="col-lg-6">
                 <ul>
-                  <li><i class="bi bi-chevron-right"></i> <strong>Birthday:</strong> <span>19 December 2001</span></li>
-                  <li><i class="bi bi-chevron-right"></i> <strong>Website:</strong> <span>www.Hamdandih.com</span></li>
+                  <li><i class="bi bi-chevron-right"></i> <strong>Place and Date of Birth:</strong> <span>Temanggung,19 December 2001</span></li>
                   <li><i class="bi bi-chevron-right"></i> <strong>Phone:</strong> <span>082179427463</span></li>
                   <li><i class="bi bi-chevron-right"></i> <strong>City:</strong> <span>Palembang,Sumatera Selatan INDONESIA</span></li>
                 </ul>
               </div>
               <div class="col-lg-6">
                 <ul>
-                  <li><i class="bi bi-chevron-right"></i> <strong>Age:</strong> <span>20</span></li>
+                  <li><i class="bi bi-chevron-right"></i> <strong>Age:</strong> <span>21</span></li>
 
                   <li><i class="bi bi-chevron-right"></i> <strong>Email:</strong> <span>hamdandih01@gmail.com</span></li>
                   <li><i class="bi bi-chevron-right"></i> <strong>Freelance:</strong> <span>Available</span></li>
@@ -124,7 +116,8 @@
         </div>
 
       </div>
-    </section><!-- End About Section -->
+    </section>
+    <!-- End About Section -->
 
     <!-- ======= Facts Section ======= -->
     <!-- <section id="facts" class="facts">
@@ -181,11 +174,8 @@
         <div class="section-title">
           <h2>Skills</h2>
         </div>
-
         <div class="row skills-content">
-
           <div class="col-lg-6">
-
             <div class="progress">
               <span class="skill">HTML <i class="val">100%</i></span>
               <div class="progress-bar-wrap">
@@ -199,67 +189,54 @@
                 <div class="progress-bar" role="progressbar" aria-valuenow="90" aria-valuemin="0" aria-valuemax="100"></div>
               </div>
             </div>
-
             <div class="progress">
               <span class="skill">JavaScript <i class="val">50%</i></span>
               <div class="progress-bar-wrap">
                 <div class="progress-bar" role="progressbar" aria-valuenow="50" aria-valuemin="0" aria-valuemax="100"></div>
               </div>
             </div>
-
           </div>
           <div class="col-lg-6">
-
             <div class="progress">
-              <span class="skill">Ruby <i class="val">75%</i></span>
+              <span class="skill">Cpp <i class="val">60%</i></span>
               <div class="progress-bar-wrap">
                 <div class="progress-bar" role="progressbar" aria-valuenow="75" aria-valuemin="0" aria-valuemax="100"></div>
               </div>
             </div>
-
             <div class="progress">
               <span class="skill">Node JS <i class="val">60%</i></span>
               <div class="progress-bar-wrap">
                 <div class="progress-bar" role="progressbar" aria-valuenow="60" aria-valuemin="0" aria-valuemax="100"></div>
               </div>
             </div>
-
             <div class="progress">
               <span class="skill">Ruby on rails <i class="val">65%</i></span>
               <div class="progress-bar-wrap">
                 <div class="progress-bar" role="progressbar" aria-valuenow="65" aria-valuemin="0" aria-valuemax="100"></div>
               </div>
             </div>
-
           </div>
-
           <div class="col-lg-6">
-
             <div class="progress">
               <span class="skill">PHP <i class="val">80%</i></span>
               <div class="progress-bar-wrap">
                 <div class="progress-bar" role="progressbar" aria-valuenow="80" aria-valuemin="0" aria-valuemax="100"></div>
               </div>
             </div>
-
             <div class="progress">
               <span class="skill">WordPress/CMS <i class="val">90%</i></span>
               <div class="progress-bar-wrap">
                 <div class="progress-bar" role="progressbar" aria-valuenow="90" aria-valuemin="0" aria-valuemax="100"></div>
               </div>
             </div>
-
             <div class="progress">
               <span class="skill">Photoshop <i class="val">55%</i></span>
               <div class="progress-bar-wrap">
                 <div class="progress-bar" role="progressbar" aria-valuenow="55" aria-valuemin="0" aria-valuemax="100"></div>
               </div>
             </div>
-
           </div>
-
         </div>
-
       </div>
     </section><!-- End Skills Section -->
 
@@ -270,7 +247,6 @@
         <div class="section-title">
           <h2>Resume</h2>
         </div>
-
         <div class="row">
           <div class="col-lg-6">
             <h3 class="resume-title">Education</h3>
@@ -329,7 +305,7 @@
                 <a href="https://www.instagram.com/gdsc_uad/" target="_blank">GDSC (Google Developer Student Clubs)</a>
                 <span><img src="./assets/img/gdsc.png" width="40px"></span>  
               </h4>
-              <h5>2021 - now</h5>
+              <h5>2021 - 2022</h5>
               <p><em>Member</em></p>
               <p>Develop and be responsible for the program code and software</p>
             </div>
@@ -562,8 +538,8 @@
                 </svg>
                 <i class="bx bx-file"></i>
               </div>
-              <h4><a href="">NODEJS Server</a></h4>
-              <p>Bagian Deskripsi project</p>
+              <h4><a href="https://github.com/dansecret/Smart-Doorlock">Smart Doorlock</a></h4>
+              <p>Smart-Doorlock with arduino uno + RFID RC522 Scan E-KTP with Arduino</p>
             </div>
           </div>
 
@@ -575,8 +551,8 @@
                 </svg>
                 <i class="bx bx-tachometer"></i>
               </div>
-              <h4><a href="">Nama Project</a></h4>
-              <p>Bagian Deskripsi project</p>
+              <h4><a href="https://github.com/dansecret/Ecommerce_web">Website Ecommerce</a></h4>
+              <p>Website mini toko online create with PHP,JS,CSS,HTML,Bootstrap</p>
             </div>
           </div>
 
@@ -588,12 +564,12 @@
                 </svg>
                 <i class="bx bx-layer"></i>
               </div>
-              <h4><a href="">Nama Project</a></h4>
-              <p>Bagian Deskripsi project</p>
+              <h4><a href="https://github.com/dansecret/SQL_Injection">SQL Injection</a></h4>
+              <p>SQL inject website and try login password</p>
             </div>
           </div>
 
-          <div class="col-lg-4 col-md-6 d-flex align-items-stretch mt-4" data-aos="zoom-in" data-aos-delay="200">
+          <!-- <div class="col-lg-4 col-md-6 d-flex align-items-stretch mt-4" data-aos="zoom-in" data-aos-delay="200">
             <div class="icon-box iconbox-red">
               <div class="icon">
                 <svg width="100" height="100" viewBox="0 0 600 600" xmlns="http://www.w3.org/2000/svg">
@@ -617,7 +593,7 @@
               <h4><a href="">Nama Project</a></h4>
               <p>Bagian Deskripsi project</p>
             </div>
-          </div>
+          </div> -->
 
         </div>
 
@@ -625,7 +601,7 @@
     </section><!-- End Services Section -->
 
     <!-- ======= Testimonials Section ======= -->
-    <section id="testimonials" class="testimonials section-bg">
+    <!-- <section id="testimonials" class="testimonials section-bg">
       <div class="container" data-aos="fade-up">
 
         <div class="section-title">
@@ -646,7 +622,7 @@
                   <i class="bx bxs-quote-alt-right quote-icon-right"></i>
                 </p>
               </div>
-            </div><!-- End testimonial item -->
+            </div> End testimonial item 
 
             <div class="swiper-slide">
               <div class="testimonial-item">
@@ -659,7 +635,7 @@
                   <i class="bx bxs-quote-alt-right quote-icon-right"></i>
                 </p>
               </div>
-            </div><!-- End testimonial item -->
+            </div> End testimonial item 
 
             <div class="swiper-slide">
               <div class="testimonial-item">
@@ -672,7 +648,7 @@
                   <i class="bx bxs-quote-alt-right quote-icon-right"></i>
                 </p>
               </div>
-            </div><!-- End testimonial item -->
+            </div>End testimonial item 
 
             <div class="swiper-slide">
               <div class="testimonial-item">
@@ -685,8 +661,9 @@
                   <i class="bx bxs-quote-alt-right quote-icon-right"></i>
                 </p>
               </div>
-            </div><!-- End testimonial item -->
-
+            </div> -->
+            <!-- End testimonial item -->
+<!-- 
             <div class="swiper-slide">
               <div class="testimonial-item">
                 <img src="assets/img/testimonials/testimonials-5.jpg" class="testimonial-img" alt="">
@@ -698,14 +675,16 @@
                   <i class="bx bxs-quote-alt-right quote-icon-right"></i>
                 </p>
               </div>
-            </div><!-- End testimonial item -->
+            </div> -->
+            <!-- End testimonial item -->
 
-          </div>
+          <!-- </div>
           <div class="swiper-pagination"></div>
         </div>
 
-      </div>
-    </section><!-- End Testimonials Section -->
+      </div> -->
+    <!-- </section> -->
+    <!-- End Testimonials Section -->
 
     <!-- ======= Contact Section ======= -->
     <section id="contact" class="contact">
@@ -765,11 +744,8 @@
               </div>
               <div class="text-center"><button type="submit" name="send">Send Message</button></div>
             </form>
-
           </div>
-
         </div>
-
       </div>
     </section><!-- End Contact Section -->
 
@@ -779,22 +755,21 @@
   <footer id="footer">
     <div class="container">
       <h3>Hamdandih</h3>
-      <!-- <p>Et aut eum quis fuga eos sunt ipsa nihil. Labore corporis magni eligendi fuga maxime saepe commodi placeat.</p> -->
       <div class="social-links">
-        <a href="https://github.com/hamdandih?tab=repositories" class="github" target="_blank"><i class="bx bxl-github"></i></a>
+        <a href="https://github.com/dansecret" class="github" target="_blank"><i class="bx bxl-github"></i></a>
         <a href="https://www.facebook.com/egymess" class="facebook" target="_blank"><i class="bx bxl-facebook"></i></a>
         <a href="https://www.instagram.com/hamdandih/" class="instagram" target="_blank"><i class="bx bxl-instagram"></i></a>
         <a href="https://www.linkedin.com/feed/" class="linkedin" target="_blank"><i class="bx bxl-linkedin"></i></a>
       </div>
       <div class="copyright">
-        &copy; Copyright <strong><span>MyResume</span></strong>. All Rights Reserved
+        &copy; Copyright <strong><span>Dansecret,Yogyakarta 2021</span></strong>. All Rights Reserved
       </div>
       <div class="credits">
         <!-- All the links in the footer should remain intact. -->
         <!-- You can delete the links only if you purchased the pro version. -->
         <!-- Licensing information: [license-url] -->
         <!-- Purchase the pro version with working PHP/AJAX contact form: https://bootstrapmade.com/free-html-bootstrap-template-my-resume/ -->
-        Designed by <a href="https://bootstrapmade.com/">bootstrapmade</a>
+        Design by <a href="https://bootstrapmade.com/">bootstrapmade</a>
       </div>
     </div>
   </footer><!-- End Footer -->
