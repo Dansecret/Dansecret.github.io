@@ -1,0 +1,42 @@
+/* Container Grid */
+.photo-gallery {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr); /* 4 kolom */
+    gap: 16px;
+    margin-top: 50px;
+}
+
+/* Wrapper untuk menyembunyikan overflow dan memastikan gambar tetap dalam frame */
+.photo-gallery img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    transition: transform 0.4s ease, z-index 0.3s ease;
+    border-radius: 8px; /* Optional, untuk memberikan border radius pada gambar */
+    overflow: hidden; /* Menyembunyikan bagian gambar yang terluar */
+}
+
+/* Efek saat hover untuk memperbesar gambar */
+.photo-gallery img:hover {
+    transform: scale(2.2); /* Memperbesar gambar lebih besar dari sebelumnya */
+    z-index: 10; /* Membawa gambar ke depan */
+}
+
+  /* Responsif: Mengubah jumlah kolom pada layar kecil */
+@media (max-width: 1200px) {
+    .photo-gallery {
+      grid-template-columns: repeat(3, 1fr); /* 3 kolom pada layar kecil */
+    }
+}
+
+@media (max-width: 900px) {
+    .photo-gallery {
+      grid-template-columns: repeat(2, 1fr); /* 2 kolom pada layar lebih kecil */
+    }
+}
+
+@media (max-width: 600px) {
+    .photo-gallery {
+      grid-template-columns: 1fr; /* 1 kolom pada layar sangat kecil */
+    }
+}
