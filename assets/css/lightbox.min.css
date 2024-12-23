@@ -18,7 +18,7 @@
 
 /* Efek saat hover untuk memperbesar gambar */
 .photo-gallery img:hover {
-    transform: scale(2.2); /* Memperbesar gambar lebih besar dari sebelumnya */
+    transform: scale(2.0); /* Memperbesar gambar lebih besar dari sebelumnya */
     z-index: 10; /* Membawa gambar ke depan */
 }
 
@@ -27,16 +27,28 @@
     .photo-gallery {
       grid-template-columns: repeat(3, 1fr); /* 3 kolom pada layar kecil */
     }
+    .photo-gallery img:hover {
+      transform: scale(1.5); /* Memperbesar gambar lebih besar dari sebelumnya */
+      z-index: 10; /* Membawa gambar ke depan */
+  }
 }
 
 @media (max-width: 900px) {
     .photo-gallery {
       grid-template-columns: repeat(2, 1fr); /* 2 kolom pada layar lebih kecil */
     }
+    .photo-gallery img:hover {
+      transform: scale(1.2); /* Memperbesar gambar lebih besar dari sebelumnya */
+      z-index: 10; /* Membawa gambar ke depan */
+  }
 }
 
 @media (max-width: 600px) {
     .photo-gallery {
       grid-template-columns: 1fr; /* 1 kolom pada layar sangat kecil */
     }
+    .photo-gallery img:hover {
+      transform: scale(1.0); /* Memperbesar gambar lebih besar dari sebelumnya */
+      z-index: 10; /* Membawa gambar ke depan */
+  }
 }
